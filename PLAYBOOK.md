@@ -1,7 +1,7 @@
-# The Flux Framework: Context-Driven Engineering for the AI Era
+# The Splice Framework: Context-Driven Engineering for the AI Era
 
 **Version:** 1.0.0
-**Core Premise:** Syntax is no longer the bottleneck; context transfer is. Scrum was built to manage human typing speed. Flux is built to orchestrate AI generation.
+**Core Premise:** Syntax is no longer the bottleneck; context transfer is. Scrum was built to manage human typing speed. Splice is built to orchestrate AI generation.
 
 In the AI era, measuring developer productivity in "Story Points" or "Two-Week Sprints" is an anchor. Developers should not type boilerplate; they should stitch components, audit architecture, and guide AI models using perfect contextual documentation.
 
@@ -80,7 +80,7 @@ Ditch time-based estimation. We measure **Context Ambiguity**.
 ## 4. Real-World Example: "Create a Post"
 
 _Old Way:_ 3 Jira tickets (Backend, Frontend, QA), 2 weeks, multiple sync meetings.
-_The Flux Way:_
+_The Splice Way:_
 
 1. **Drafting:** Architect pastes the Drizzle schema and UI rules into a Markdown file. Scored as Low Ambiguity (1 Point).
 2. **Generating:** AI Orchestrator uses Cursor, references `@create-post-context.md`, and asks the AI to generate the Server Action and React Modal. Takes 45 minutes.
@@ -96,7 +96,7 @@ New hires do not read dead wikis. They read the `.cursorrules` and `.clauderules
 
 **The 20x Junior Acceleration:**
 In the Old Way, Juniors spent weeks fighting basic syntax, typos, and build tools to create a simple CRUD app.
-In the Flux Way, the AI generates the syntax instantly. The Junior spends their time **reading** advanced, modular code and receiving architectural corrections from Seniors during the Logic Audit. They learn software design, system architecture, and prompt engineering from day one. They don't learn how to type; they learn how to build.
+In the Splice Way, the AI generates the syntax instantly. The Junior spends their time **reading** advanced, modular code and receiving architectural corrections from Seniors during the Logic Audit. They learn software design, system architecture, and prompt engineering from day one. They don't learn how to type; they learn how to build.
 
 ---
 
