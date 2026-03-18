@@ -24,7 +24,7 @@ Instead of writing boilerplate from scratch, developers using Splice act as **AI
 
 ## Getting Started
 
-1. **Read the Manifesto:** Head over to [Splice.revstack.dev](https://splice.revstack.dev) for the high-level philosophy.
+1. **Read the Manifesto:** Head over to [splice.revstack.dev](https://splice.revstack.dev) for the high-level philosophy.
 2. **Read the Playbook:** The complete, step-by-step operational guide is located in [`PLAYBOOK.md`](./PLAYBOOK.md) right here in this repository.
 3. **Adopt the Tiers:** Grab the `.cursorrules` and `.clauderules` templates (coming soon to this repo) to set up your IDE for Context Tiers (Architect, Orchestrator, Auditor).
 
